@@ -1,0 +1,4 @@
+# Generated report/CSV outputs are excluded from GitHub language stats
+outputs/** linguist-generated=true
+# Count SQL in the language bar (GitHub hides it by default)
+*.sql linguist-detectable=true
