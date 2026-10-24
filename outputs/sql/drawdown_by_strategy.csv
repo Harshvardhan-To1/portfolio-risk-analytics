@@ -1,0 +1,8 @@
+strategy,trough_date,max_drawdown
+Min Variance,2022-10-20,-0.155
+Max Sharpe,2022-10-14,-0.1753
+Risk Parity,2022-10-20,-0.2097
+Benchmark 60/40,2020-03-23,-0.2177
+Client Portfolio,2022-10-14,-0.2203
+Equal Weight,2022-10-14,-0.2236
+Max Diversification,2022-10-24,-0.2691

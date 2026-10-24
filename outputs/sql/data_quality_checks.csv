@@ -1,0 +1,6 @@
+check_name,issues
+missing_returns,0
+extreme_moves_gt_25pct,0
+non_positive_prices,0
+duplicate_price_rows,0
+stale_prices_5d_flat,0
